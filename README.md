@@ -1,11 +1,11 @@
-SoLoud
+SoLoud (academic use)
 ======
 
-SoLoud is an easy to use, free, portable c/c++ audio engine for games.
+Soloud version with some filters added and included on my final degree project.
 
-![ScreenShot](https://raw.github.com/jarikomppa/soloud/master/soloud.png)
-
-Zlib/LibPng licensed. Portable. Easy.
+Most of code belongs to Jari Komppa and some contributors from his repository.
+You can check te original version at
+https://github.com/jarikomppa/soloud
 
 Official site with documentation can be found at:
  http://soloud-audio.com
